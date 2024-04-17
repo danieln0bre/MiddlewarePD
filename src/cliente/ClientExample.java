@@ -1,4 +1,7 @@
+package cliente;
 import java.io.IOException;
+
+import middleware.ServiceStub;
 
 public class ClientExample {
     public static void main(String[] args) {
