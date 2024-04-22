@@ -65,7 +65,7 @@ public class ServerExample {
     }
 
     public static void main(String[] args) throws IOException {
-        ServerExample server = new ServerExample(6060);  // Certifique-se de que 6060 é a porta correta
+        ServerExample server = new ServerExample(6060);
         server.start();
     }
 }
